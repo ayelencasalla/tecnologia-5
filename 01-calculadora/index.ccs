@@ -1,0 +1,26 @@
+.buttonBlue
+{
+background-color: #cc0099;
+color:white;
+}
+.buttonGreen
+{
+background-color: #53ff1a;
+}
+.buttonOrange
+{
+background-color: #ff6600;
+}
+.buttonRed
+{
+background-color:#ff0000;
+}
+.buttonviolet
+{
+  background-color:#ff6600;
+}
+.buttonpinck
+{
+  background-color:#ff0000;
+}
+
